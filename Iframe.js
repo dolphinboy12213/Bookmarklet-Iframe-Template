@@ -1,6 +1,6 @@
 javascript:(function() {
   var iframe = document.createElement('iframe');
-  iframe.setAttribute('src', 'YOUR SITE HERE');
+  iframe.setAttribute('src', 'https://discord.com/login');
   iframe.style.position = 'fixed';
   iframe.style.top = '50%';
   iframe.style.left = '50%';
